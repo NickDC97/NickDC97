@@ -2,24 +2,23 @@
 
 I'm Nick Consolini a Finance Data Manager at the Republican National Committee. When I'm not working I'm hiking with my French Bulldog :dog: or watching the Patriots win another SuperBowl :football:
 
-:mailbox: Reach out!
+Reach out below:
 
- [![Linkedin Badge](https://img.shields.io/badge/-Nick-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-consolini-01b877142/) [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nickconsolini@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-consolini-01b877142/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickconsolini@gmail.com)
 
 <!-- TODO: Add last video link -->
 
-- 💰 I’m currently raising money at @RNC
-- 🌱 I’m currently learning Project Managment, advanced python, and visuals 
-- 📫 How to reach me: nconsolini@gmail.com.
+- 💰 Raising money at @RNC
+- 🌱 learning Project Managment and data science
 - ⚡ Fun fact: I flew airplanes in high school 👨‍✈‍
 
-<!-- #### Top Technologies -->
+ #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) --> 
+[![MS SQL Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#) [![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![R Badge](	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#)
 
 
 Follow my :dog: Mimimosa!
 
-[![Mail Badge](https://img.shields.io/badge/-@Mimi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/mimimosa_thefrenchie) 
+[![Insta Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mimimosa_thefrenchie) 
