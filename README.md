@@ -8,7 +8,7 @@ Reach out below:
 
 <!-- TODO: Add last video link -->
 
-- 💰 Raising money at @RNC
+- 💰 Raising money more efficently 
 - 🌱 learning: machine learning models
 - ⚡ Fun fact: I flew airplanes in high school 👨‍✈‍
 
